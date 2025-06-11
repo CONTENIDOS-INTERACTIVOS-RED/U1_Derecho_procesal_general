@@ -54,7 +54,7 @@
         figure
           img.img-a.img-t(src="@/assets/curso/temas/8.png", data-aos="zoom-in")              
       .col-lg-8 
-        .bg-color-3.p-4.j1.mb-4(data-aos="fade-left")
+        .bg-color-3.p-4.j1.h-100(data-aos="fade-left")
           p Se realizarán actividades de análisis normativo, ejercicios prácticos, foros de discusión y reflexiones escritas orientadas a fortalecer el pensamiento jurídico y argumentativo.
 
           p.mb-0 Se recomienda mantener una participación activa en las actividades propuestas, realizar una lectura atenta de la normatividad procesal vigente y reflexionar sobre la aplicación de estos conocimientos en contextos reales del ejercicio profesional. El desarrollo de esta unidad será clave para consolidar las bases del estudio del Derecho Procesal General y avanzar con solvencia en las unidades siguientes.

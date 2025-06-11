@@ -35,14 +35,14 @@
               p.mb-0 El debido proceso constituye uno de los pilares fundamentales del ordenamiento jurídico colombiano, consagrado expresamente en el Artículo 29 de la Constitución Política. Este principio garantiza que toda persona, sin distinción, tiene derecho a un juicio justo, desarrollado conforme a normas preexistentes, por autoridades competentes, imparciales e independientes, y bajo condiciones de igualdad, defensa y contradicción. En otras palabras, el debido proceso no solo es una garantía procesal, sino también un derecho fundamental transversal que atraviesa toda la actividad jurisdiccional y administrativa.
 
     .bg-color-5(data-aos="fade-left")
-      .row.justify-content-center
+      .row.justify-content-end.mx-0
         .col-lg-8.j1
           .p-4
             p.mb-0 El Artículo 29 establece que toda persona se presume inocente mientras no se le haya declarado judicialmente culpable, y que quien sea sindicado tiene derecho a la defensa y a la asistencia de un abogado durante la investigación y el juzgamiento.       
         .col-lg-auto.p-0
           img.img-a.img-t(src="@/assets/curso/temas/49.png")
-    .bg-color-7.mb-4(data-aos="fade-left")
-      .row.justify-content-center
+    .bg-color-7.mb-4(data-aos="fade-rght")
+      .row.justify-content-start.mx-0
         .col-lg-auto.p-0
           img.img-a.img-t(src="@/assets/curso/temas/50.png")      
         .col-lg-8.j1
