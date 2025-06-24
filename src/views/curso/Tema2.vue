@@ -131,7 +131,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Principios generales del Derecho Procesal 
             p.mb-4(data-aos="fade-right") En el PDF #[b Principios generales del Derecho Procesal], se analizan conceptos claves como legalidad, contradicción, igualdad, economía y dispositivo, así como su aplicación práctica en distintos contextos jurídicos. Estos principios garantizan que las actuaciones procesales se desarrollen con equidad, transparencia y respeto a los derechos fundamentales de las partes.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

@@ -11,7 +11,7 @@
           .col-lg-8.mb-3.mb-lg-0
             h2.mb-4(data-aos="flip-up") Constitución e interpretación normativa 
             p.mb-4(data-aos="fade-right") En el PDF #[b Constitución e interpretación normativa], se examina cómo la Constitución Política y el bloque de constitucionalidad, orientan la aplicación e interpretación de las normas procesales, exigiendo una actuación judicial basada en la garantía del debido proceso y la protección de la dignidad humana. Este enfoque permite comprender el proceso no solo como un conjunto de reglas, sino como un medio para la realización efectiva de la justicia.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -170,7 +170,7 @@
           .col-lg-8.mb-3.mb-lg-0
             h2.mb-4(data-aos="flip-up") Interpretación normativa en el Derecho Procesal colombiano 
             p.mb-4(data-aos="fade-right") En el PDF #[b Interpretación normativa en el Derecho Procesal colombiano], se analizan los distintos enfoques interpretativos, funcional, sistemático, teleológico y conforme a la Constitución, que permiten a los jueces adoptar decisiones ajustadas al debido proceso y los principios del Estado Social de Derecho. Esta perspectiva garantiza que la aplicación de las normas no se convierta en un obstáculo formal, sino en una vía real hacia la justicia.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
