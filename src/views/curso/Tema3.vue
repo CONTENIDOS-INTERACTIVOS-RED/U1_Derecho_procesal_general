@@ -3,7 +3,7 @@
   BannerInterno(:subTitulo="'3. Constitución e interpretación normativa'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
-    p(data-aos="fade-down") La comprensión de la relación entre el Derecho Sustancial y el Derecho Procesal es clave para interpretar cómo se articulan las normas que establecen derechos con los mecanismos que permiten hacerlos exigibles ante los jueces.
+    p(data-aos="fade-down") El Derecho Procesal colombiano se encuentra estrechamente vinculado a los mandatos constitucionales y al respeto de los derechos fundamentales.
 
     .bg-full-width.bg-color-4.mb-5
       .px-4.p-md-5

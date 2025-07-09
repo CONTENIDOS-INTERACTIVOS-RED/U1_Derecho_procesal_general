@@ -206,7 +206,7 @@
                   h5 2. Oralidad y audiencias
                   p En un proceso de responsabilidad contractual, las partes exponen sus argumentos oralmente, ante el juez durante la audiencia inicial.
                 .bg-color-white.box-shadow.p-3(x="25.1%" y="93%" numero="+")
-                  h5 3. Oralidad y audiencias
+                  h5 3. Igualdad de las partes
                   p En un proceso civil de pertenencia, el juez autoriza la intervención de un curador #[i ad litem] para proteger a una parte ausente o en estado de indefensión.
                 .bg-color-white.box-shadow.p-3(x="38.5%" y="76%" numero="+")
                   h5 4. Concentración
